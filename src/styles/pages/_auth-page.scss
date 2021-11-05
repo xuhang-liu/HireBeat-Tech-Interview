@@ -1,0 +1,21 @@
+.login-window {
+    background-color: white;
+    width: 500px;
+    padding: 25px;
+    border-radius: 10px;
+
+    // Center
+    position: absolute;
+    left: 50%;
+    margin-left: -275px;
+    top: 50%;
+    margin-top: -175px;
+
+    .logo {
+        text-align: center;
+        img {
+            height: 30px;
+            margin: 10px 0;
+        }
+    }
+}

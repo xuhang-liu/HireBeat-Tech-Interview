@@ -1,0 +1,42 @@
+{
+    "data": {
+        "users": [{
+            "id": 1,
+            "first_name": "Admin",
+            "last_name": "",
+            "email": "admin@hirebeat.com",
+            "created_at": ""
+        }, {
+            "id": 2,
+            "first_name": "John",
+            "last_name": "Doo",
+            "email": "john@hirebeat.com",
+            "created_at": "2018-03-21 12:14:00"
+        }, {
+            "id": 3,
+            "first_name": "Sarah",
+            "last_name": "Johnson",
+            "email": "sarah@hirebeat.com",
+            "created_at": "2018-07-28 13:14:00"
+        }, {
+            "id": 4,
+            "first_name": "Harvey",
+            "last_name": "Smith",
+            "email": "harvey@hirebeat.com",
+            "created_at": "2018-08-01 11:45:00"
+        }, {
+            "id": 5,
+            "first_name": "Chris",
+            "last_name": "Tolmeijer",
+            "email": "chris@hirebeat.com",
+            "created_at": "2019-05-11 21:24:00"
+        }, {
+            "id": 6,
+            "first_name": "Bri",
+            "last_name": "Wilkins",
+            "email": "bri@hirebeat.com",
+            "created_at": "2020-01-21 19:11:00"
+        }]
+    },
+    "success": 1
+}

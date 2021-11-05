@@ -1,0 +1,12 @@
+{
+    "data": {
+        "user": {
+            "id": 2,
+            "first_name": "Xuhang",
+            "last_name": "Liu",
+            "email": "xuhang@hirebeat.com",
+            "jwt_token": "Th15is@t0k3n"
+        }
+    },
+    "success": 1
+}
